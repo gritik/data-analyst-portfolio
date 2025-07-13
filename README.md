@@ -33,7 +33,6 @@ This repository contains my core sample projects demonstrating skills in data cl
 I’m Ritik Gupta, an aspiring Data Analyst skilled in SQL, Power BI, Excel, and Python.  
 📍 Based in: New Delhi, India  
 📧 Email: ritikgupta03102000@gmail.com  
-🔗 LinkedIn: *[Add your LinkedIn link]*
 
 ---
 
